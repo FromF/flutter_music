@@ -1,1 +1,3 @@
-# flutter_music
+# 楽器アプリ
+
+[iPhoneアプリ開発集中講座](https://amzn.to/30MZV95)のサンプルコード楽器アプリをもしもflutterで作ったらをという課題で作ったプロジェクトです。
